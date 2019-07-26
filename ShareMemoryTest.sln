@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShareMemoryServer", "ShareMemoryTest\ShareMemoryTest.vcxproj", "{8512213E-E1DD-4A72-900D-91ECE1A28E21}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShareMemoryClient", "ShareMemoryClient\ShareMemoryClient.vcxproj", "{3D92D3C5-76FB-4310-AB36-4B6057F6783D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8512213E-E1DD-4A72-900D-91ECE1A28E21}.Debug|x64.ActiveCfg = Debug|x64
+		{8512213E-E1DD-4A72-900D-91ECE1A28E21}.Debug|x64.Build.0 = Debug|x64
+		{8512213E-E1DD-4A72-900D-91ECE1A28E21}.Debug|x86.ActiveCfg = Debug|Win32
+		{8512213E-E1DD-4A72-900D-91ECE1A28E21}.Debug|x86.Build.0 = Debug|Win32
+		{8512213E-E1DD-4A72-900D-91ECE1A28E21}.Release|x64.ActiveCfg = Release|x64
+		{8512213E-E1DD-4A72-900D-91ECE1A28E21}.Release|x64.Build.0 = Release|x64
+		{8512213E-E1DD-4A72-900D-91ECE1A28E21}.Release|x86.ActiveCfg = Release|Win32
+		{8512213E-E1DD-4A72-900D-91ECE1A28E21}.Release|x86.Build.0 = Release|Win32
+		{3D92D3C5-76FB-4310-AB36-4B6057F6783D}.Debug|x64.ActiveCfg = Debug|x64
+		{3D92D3C5-76FB-4310-AB36-4B6057F6783D}.Debug|x64.Build.0 = Debug|x64
+		{3D92D3C5-76FB-4310-AB36-4B6057F6783D}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D92D3C5-76FB-4310-AB36-4B6057F6783D}.Debug|x86.Build.0 = Debug|Win32
+		{3D92D3C5-76FB-4310-AB36-4B6057F6783D}.Release|x64.ActiveCfg = Release|x64
+		{3D92D3C5-76FB-4310-AB36-4B6057F6783D}.Release|x64.Build.0 = Release|x64
+		{3D92D3C5-76FB-4310-AB36-4B6057F6783D}.Release|x86.ActiveCfg = Release|Win32
+		{3D92D3C5-76FB-4310-AB36-4B6057F6783D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
